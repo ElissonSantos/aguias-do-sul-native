@@ -1,0 +1,12 @@
+{
+  "name": "aguias-do-sul-native",
+  "displayName": "aguias-do-sul-native",
+  "expo": {
+    "name": "aguias-do-sul-native",
+    "slug": "aguias-do-sul-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
